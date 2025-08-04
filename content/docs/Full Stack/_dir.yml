@@ -1,0 +1,8 @@
+# content/docs/_dir.yml
+title: Full Stack
+icon: i-lucide-book
+order: 1
+navigation: true
+navigation.redirect: /docs/full-stack/backend/java-101
+sidebar:
+  style: group

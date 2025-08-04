@@ -1,0 +1,6 @@
+# content/docs/_dir.yml
+title: Workspace
+icon: i-lucide-book
+order: 1
+navigation: true
+navigation.redirect: /docs/full-stack/backend/java-101
